@@ -1,0 +1,5 @@
+{
+  "name": "Excel Color Pro | Python 本地版",
+  "description": "基于 Flask 和 openpyxl 的本地 Excel 自动化工具。读取 B 列十六进制色码，并在 D 列通过 PatternFill 生成真实的单元格背景预览。",
+  "requestFramePermissions": []
+}
